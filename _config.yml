@@ -1,0 +1,10 @@
+name: "Gadget Miscellany"
+description: "A blog about the many gadgets I think are interesting, and my thoughts on the industry."
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
